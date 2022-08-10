@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df736666-4a03-40a8-8a83-ec79d80df0a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrukturDasar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/kendaraan/Kereta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/kendaraan/Mobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/kendaraan/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/musik/Gitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/IndexOutOfBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/InisiasiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/LoopingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/IfThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/IfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/IfThenElseIfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/SwitchWithoutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputouput/InputOutputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputouput/UserBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputouput/UserOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/NastedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorUnary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +54,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/dicoding/StrukturDasar/lib"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dicoding\StrukturDasar\lib" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
