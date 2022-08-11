@@ -9,6 +9,11 @@
 - Array [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/array)
 - Condition/Branching [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/condition)
 - Looping [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/looping)
+- Collection (List, Set, Map) [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/collection)
+- Class [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/kelas) 
+- Object [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/obyek) 
+- Function [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/fungsi) 
+- Property & Method [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/propertimetode) 
 
 
 Thanks to Dicoding.com
