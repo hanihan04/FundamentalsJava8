@@ -1,6 +1,6 @@
 package com.dicoding.javafundamental.inheritance;
 
-public class Kucing extends Hewan {
+public class Kucing extends Hewan implements Mamalia {
     //Overriding & Overloading : Begin
     private String ras;
     private String habitat;
