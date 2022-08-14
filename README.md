@@ -14,9 +14,9 @@
 - Object [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/obyek) 
 - Function [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/fungsi) 
 - Property & Method [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/propertimetode) 
-- access modifier [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/accessmodifier)
-- oop [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/oop)
-- inheritance (overriding, overloading, polymorphism) [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/inheritance)
+- Access Modifier [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/accessmodifier)
+- OOP [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/oop)
+- Inheritance (overriding, overloading, polymorphism) [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/master/src/com/dicoding/javafundamental/inheritance)
 
 Thanks to Dicoding.com
 
