@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d9cf2b3-a91f-4121-873e-d3bfc1b85bd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FundamentalsJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/KelasA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack1/KelasA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack2/KelasA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack2/KelasB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack3/Perhitungan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack4/Lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack4/Perhitungan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/accessmodifier/pack4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/IndexOutOfBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/InisiasiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/LoopingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/array/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/kendaraan/Kereta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/kendaraan/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/kendaraan/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/basic/musik/Gitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/casting/CastingVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/casting/Dwaekki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/casting/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/casting/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/casting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/collection/ListPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/collection/MapPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/collection/PlanetForMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/collection/SetPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/IfThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/IfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/IfThenElseIfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/condition/SwitchWithoutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/datetime/ExampleCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/datetime/ExampleDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/datetime/ExampleSimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/datetime/ExampleSpecificCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/datetime/ExampleSplitCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/datetime/ExampleSystemCurrentMilis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/exception/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/exception/TryCatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/fungsi/CallFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/fungsi/InputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/fungsi/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/fungsi/ReturnFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/generics/GenericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/generics/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/generics/Wildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/generics/WildcardVSGenericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inheritance/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inheritance/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inheritance/Mamalia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputouput/InputOutputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputouput/UserBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputouput/UserOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/iostream/ByteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/iostream/CharacterStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/iostream/FileNavigationList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/iostream/FileNavigationMkdirs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/kelas/KucingAnggora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/NastedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/looping/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/obyek/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/obyek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/oop/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/oop/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/operator/OperatorUnary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/propertimetode/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/propertimetode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commons-lang3-3.9.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DNHge48ThhBpuIuMi0DzetCkfr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/dicoding/FundamentalsJava/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dicoding\FundamentalsJava\src" />
+      <recent name="D:\dicoding\FundamentalsJava\src\com\dicoding\javafundamental" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d9cf2b3-a91f-4121-873e-d3bfc1b85bd8" name="Changes" comment="" />
+      <created>1660532737984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660532737984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
