@@ -23,6 +23,12 @@
 - DateTime [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/Continue/src/com/dicoding/javafundamental/datetime)
 - Casting [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/Continue/src/com/dicoding/javafundamental/casting)
 
+### Mini project [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/tree/studikasus/src/studikasus):
+- Suhu Air [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/blob/studikasus/src/studikasus/SuhuAir.java)
+- Menghitung Vokal dan Konsonan [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/blob/studikasus/src/studikasus/VokalKonsonan.java)
+- Menu Bangun Datar [:mag_right:](https://github.com/hanihan04/FundamentalsJava8/blob/studikasus/src/studikasus/part3/Main.java)
+
+
 Thanks to Dicoding.com
 
 Source : Dicoding.com     `in August 2022`
